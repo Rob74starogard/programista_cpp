@@ -19,6 +19,7 @@ void menu_print()
     cout << "5. Remove person from databook" << endl;
     cout << "6. Add person to databook" << endl;
     cout << "7. Modify person's data" << endl;
+    cout << "--Other choice end's program--" << endl;
     cout << "____________________________________" << endl;
     cout << "What we do?" << endl;
 }
